@@ -1,0 +1,6 @@
+﻿  Day1.cpp
+D:\SKYLAR\GIT-REPOS\Advent-Of-Code-2024\Day1.cpp(46,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\SKYLAR\GIT-REPOS\Advent-Of-Code-2024\Day1.cpp(56,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Advent Of Code 2024.vcxproj -> D:\SKYLAR\GIT-REPOS\Advent-Of-Code-2024\x64\Debug\Advent Of Code 2024.exe
