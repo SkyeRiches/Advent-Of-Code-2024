@@ -1,10 +1,10 @@
-#include "Day1.h"
+#include "Day2.h"
 
 int main()
 {
-	DayOne* d1 = new DayOne();
+	Day2* d2 = new Day2();
 
-	d1->RunProgram();
+	d2->RunProgram();
 
 	return 0;
 }
